@@ -3,6 +3,6 @@
   "private": true,
   "description": "Minimal Angular fixture for Gortex DI recall evaluation. Not installed — static corpus.",
   "dependencies": {
-    "@angular/core": "^17.0.0"
+    "@angular/core": "^22.2.3"
   }
 }
